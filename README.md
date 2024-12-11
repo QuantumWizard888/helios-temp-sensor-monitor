@@ -1,5 +1,5 @@
 # Helios CPU/GPU Temperature Sensor Monitor
-Helios is a simple hardware temperature sensor monitor for your GPU and CPU written in Python. It uses **LibreHardwareMonitor.dll** from this [repository](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor).
+Helios is a simple hardware temperature sensor monitor for your GPU and CPU written in Python. It uses **LibreHardwareMonitor.dll** from this [repository](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor). Latest varsion: **0.9**
 
 ## Features
 - Works like a widget on top of all of your applications (even games)
