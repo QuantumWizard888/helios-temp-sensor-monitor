@@ -67,7 +67,7 @@ The Python source file already contains needed instructions for building the EXE
 * [bindglobal](https://pypi.org/project/bindglobal/)
 * [Nuitka](https://nuitka.net/) (only for Windows EXE compilation)
 
-## Referencis
+## References
 
 * https://stackoverflow.com/questions/21840133/how-to-display-text-on-the-screen-without-a-window-using-python
 * https://stackoverflow.com/questions/4055267/tkinter-mouse-drag-a-window-without-borders-eg-overridedirect1
